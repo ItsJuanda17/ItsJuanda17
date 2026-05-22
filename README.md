@@ -36,17 +36,7 @@
 
 ---
 
-## Github Statistics 📈
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ItsJuanda17&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJuanda17&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
-
----
 
 ## 📌 Featured Interests
 
